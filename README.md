@@ -72,15 +72,15 @@ Clone the repository:
 ```bash
 git clone https://github.com/yourusername/Diabetes-Prediction-Streamlit-App.git
 ```
-#Navigate to the project folder:
+Navigate to the project folder:
 ```bash
 cd Diabetes-Prediction-Streamlit-App
 ```
-#Install dependencies:
+Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 Run the application:
-
+```bash
 streamlit run app.py
-
+```
