@@ -52,8 +52,7 @@ The model uses the following medical parameters:
 - Age
 
 ---
-## 📁 P
-roject Structure
+## 📁 Project Structure
 
 ```
 Diabetes-Prediction-Streamlit-App
